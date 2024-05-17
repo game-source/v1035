@@ -1,1 +1,1 @@
-window.open("http://www.baidu.com");
+window.open("https://www.baidu.com");
